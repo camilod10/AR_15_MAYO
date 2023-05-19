@@ -1,1 +1,7 @@
 Terminar los talleres de toda la semana
+
+alegria
+tristeza 
+miedo
+furia
+repudio
